@@ -50,6 +50,8 @@ The main change is the location of <> and \, this is because when compared to IS
 `ctrl + alt + -`
 
 # Layout
+(Note: The pictures show the default <>\ key next to left shift, but on an actual ANSI keyboard it will not be there.)
+
 Default
 ![image](https://user-images.githubusercontent.com/12025450/167323812-e926ee3a-3626-4920-bb1a-984dca2e1337.png)
 
