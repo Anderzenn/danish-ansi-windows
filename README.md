@@ -12,7 +12,7 @@ I have used this layout for a little over a year now and it has become second na
 In good spirit of me just having used the program to create this layout, I will be including the original file as the source element.
 
 # Installation
-1. Download the latest release from here
+1. Download the latest release from [here](https://github.com/Anderzenn/danish-ansi/releases/latest) or the latest release in the sidebar
 2. Extract to a place of your choosing
 3. Run "Setup.exe"
 4. Follow the prompts
