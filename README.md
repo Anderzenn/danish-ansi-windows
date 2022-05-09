@@ -23,6 +23,20 @@ In good spirit of me just having used the program to create this layout, I will 
 
 (**note**: in some cases you have to go in and manually add the layout to the language shelf, the layout should be called `Dansk - ANSI <>\`)
 
+# Uninstallation
+If you have decided you want to uninstall the layout, then just simply remove it from any language in your language shelf, run the setup.exe again and it should ask if you wish to uninstall or repair. Choose uninstall and voilà, you have uninstalled it.
+
+Step-by-step guide:
+1. Remove the layout from all languages that might be using it as default (primary layout)
+2. Run "Setup.exe"
+3. Choose "Remove the keyboard layout."
+4. Restart your pc
+5. ???
+6. Profit
+
+# Updating
+If I release an update, you will have to uninstall the layout first and then reinstall it following the installation steps.
+
 # Usage
 The main change is the location of <> and \, this is because when compared to ISO, ANSI is missing the key that on the Danish/Nordic layout features the <>\ key.
 
@@ -41,6 +55,9 @@ Default
 
 AltGr (Ctrl + Alt)
 ![image](https://user-images.githubusercontent.com/12025450/167323841-c5fafb6a-79fe-4ec6-b049-a67b5e181e0b.png)
+
+# Problem Solving
+If you are having issues with the installation process, then make sure you do not have another language installed with the same name (dk_ansi), and also that you have .NET framework installed.
 
 # Credits
 All credit goes to Microsoft for creating their tool "The Microsoft Keyboard Layout Creator", which can be found [here](https://support.microsoft.com/en-us/topic/906c31e4-d5ea-7988-cb39-7b688880d7cb). Without this tool I would not have been able to create this keyboard layout.
